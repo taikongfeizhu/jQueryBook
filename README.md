@@ -1,1 +1,1 @@
-#jQueryBook��д��ĿV2.0
+#jQueryBook编写项目V2.0
